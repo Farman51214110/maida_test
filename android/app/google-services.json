@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967531667831",
+    "project_id": "exploreapp-fec12",
+    "storage_bucket": "exploreapp-fec12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967531667831:android:ec77ad2279741a00080172",
+        "android_client_info": {
+          "package_name": "akashdivya.exploreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FCUt1gvyFYrb2TUhbrpZjmaagpI6Muo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967531667831:android:c602f608686b8da8080172",
+        "android_client_info": {
+          "package_name": "com.fuel_pulse.fuel_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FCUt1gvyFYrb2TUhbrpZjmaagpI6Muo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
