@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:967531667831:android:ec77ad2279741a00080172",
         "android_client_info": {
-          "package_name": "akashdivya.exploreapp"
+          "package_name": "farman.maida_test"
         }
       },
       "oauth_client": [],
@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:967531667831:android:c602f608686b8da8080172",
         "android_client_info": {
-          "package_name": "com.fuel_pulse.fuel_pulse"
+          "package_name": "com.maida_test.maida_test"
         }
       },
       "oauth_client": [],
